@@ -62,3 +62,21 @@ body {
  color: #fff;
  border-radius: 10px;
 }
+
+.categoria {
+ margin: 16px 64px;
+ display: flex;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.categoria img {
+ width: 425px;
+ height: 296px;
+ object-fit: cover;
+ object-position: center;
+}
+.categoria .texto {
+ padding: 0 16px;
+}
+.categoria .texto p {
+ letter-spacing: 0pt;
+}
