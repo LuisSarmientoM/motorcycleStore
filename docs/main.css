@@ -4,7 +4,7 @@ body {
  padding: 0;
 }
 .hero {
- background-image: url(/utils/pexels-oleg-magni-1796080.jpg);
+ background-image: url(../utils/pexels-oleg-magni-1796080.jpg);
  background-size: cover;
  height: calc(100vh - 124px);
  padding-top: 78px;
@@ -52,4 +52,13 @@ body {
 .links li a:hover,
 .selected {
  background-color: #333;
+}
+
+.bienvenido {
+ margin: 16px;
+ padding: 26px 0 26px 16px;
+ background-color: #363636;
+ text-align: center;
+ color: #fff;
+ border-radius: 10px;
 }
