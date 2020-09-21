@@ -4,7 +4,7 @@ body {
  padding: 0;
 }
 .hero {
- background-image: url(../utils/pexels-oleg-magni-1796080.jpg);
+ background-image: url(https://images.pexels.com/photos/1796085/pexels-photo-1796085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
  background-size: cover;
  height: calc(100vh - 124px);
  padding-top: 78px;
